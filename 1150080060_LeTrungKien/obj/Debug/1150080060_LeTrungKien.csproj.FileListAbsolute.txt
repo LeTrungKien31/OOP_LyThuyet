@@ -1,0 +1,11 @@
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\bin\Debug\1150080060_LeTrungKien.exe.config
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\bin\Debug\1150080060_LeTrungKien.exe
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\bin\Debug\1150080060_LeTrungKien.pdb
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\1150080060_LeTrungKien.csproj.AssemblyReference.cache
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\_1150080060_LeTrungKien.Form1.resources
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\_1150080060_LeTrungKien.Properties.Resources.resources
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\1150080060_LeTrungKien.csproj.GenerateResource.cache
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\1150080060_LeTrungKien.csproj.CoreCompileInputs.cache
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\1150080060_LeTrungKien.exe
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\1150080060_LeTrungKien.pdb
+D:\OOP\1150080060_LeTrungKien\1150080060_LeTrungKien\obj\Debug\_1150080060_LeTrungKien.Form2.resources
